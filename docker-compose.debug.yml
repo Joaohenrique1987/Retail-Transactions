@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  trabalhobigdata:
+    image: trabalhobigdata
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    command: ["sh", "-c", "pip install debugpy -t /tmp && python /tmp/debugpy --wait-for-client --listen 0.0.0.0:32768 main.py "]
+    ports:
+      - "32768:8888"

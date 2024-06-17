@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  trabalhobigdata:
+    image: trabalhobigdata
+    build:
+      context: .
+      dockerfile: ./Dockerfile
