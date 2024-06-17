@@ -19,9 +19,9 @@ No terminal da pasta do projeto abra o terminal e digite o comando:
 
 Técnologia usada:
 
-Python
-Jupyter Notebook
-pySpark
-Matplotlib
-Seaborn
-Numpy
+- Python
+- Jupyter Notebook
+- pySpark
+- Matplotlib
+- Seaborn
+- Numpy
