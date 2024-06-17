@@ -10,7 +10,7 @@ Instalando Dependencias:
 
 No terminal da pasta do projeto abra o terminal e digite o comando:
 
--  python -m venv venv && .\venv\Scripts\activate && pip install -r requirements.txt
+-  pip install -r requirements.txt
 
 # Passos para executar o docker file:
 
