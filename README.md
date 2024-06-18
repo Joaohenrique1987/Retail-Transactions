@@ -21,8 +21,7 @@ siga normalmente com a execução
 - após a execução os relatorios estarao na pasta de notebooks
   
 # Tecnologias usadas:
-<img src= "https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/3dfa51da-2e10-4e07-b7ea-a27cdb965c81
-" height=50px 
+<img src= "https://quintagroup.com/services/service-images/apache-spark-python-pyspark.jpg" height=50px 
 width=150px>
 <img src="https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/81818411-159b-451b-aeb2-1ba11dac45c5" height=50px width=50px>
 - pySpark
