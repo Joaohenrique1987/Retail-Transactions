@@ -22,8 +22,7 @@ siga normalmente com a execução
   
 # Tecnologias usadas:
 
-- <img src= "![image](https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/11e64126-e4e5-4d0c-93b9-edb03d28bda0)
-">Python
+- <img src= "https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/11e64126-e4e5-4d0c-93b9-edb03d28bda0">Python
 - Jupyter Notebook
 - pySpark
 - Matplotlib
