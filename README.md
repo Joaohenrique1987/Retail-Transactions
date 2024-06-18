@@ -22,7 +22,8 @@ siga normalmente com a execução
   
 # Tecnologias usadas:
 
-- <img src= "https://w7.pngwing.com/pngs/447/294/png-transparent-python-javascript-logo-clojure-python-logo-blue-angle-text-thumbnail.png" height >Python
+- <img src= "![image](https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/11e64126-e4e5-4d0c-93b9-edb03d28bda0)
+">Python
 - Jupyter Notebook
 - pySpark
 - Matplotlib
