@@ -27,4 +27,4 @@ siga normalmente com a execução
 - pySpark
 - Matplotlib
 - Seaborn
-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F20555%2Fnumpy&psig=AOvVaw3hP3WazUtxQqerpzDm7ngh&ust=1718755447296000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMigmavt44YDFQAAAAAdAAAAABAE"> Numpy
+- <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F20555%2Fnumpy&psig=AOvVaw3hP3WazUtxQqerpzDm7ngh&ust=1718755447296000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMigmavt44YDFQAAAAAdAAAAABAE](https://images.opencollective.com/numpy/68c08d3/logo/256.png)"> Numpy
