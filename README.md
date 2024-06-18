@@ -21,8 +21,8 @@ siga normalmente com a execução
 - após a execução os relatorios estarao na pasta de notebooks
   
 # Tecnologias usadas:
-
-- <img src= "https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/11e64126-e4e5-4d0c-93b9-edb03d28bda0">Python
+<img src= "https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/11e64126-e4e5-4d0c-93b9-edb03d28bda0" height=50px 
+width=50px>
 - Jupyter Notebook
 - pySpark
 - Matplotlib
