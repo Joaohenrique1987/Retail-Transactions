@@ -25,6 +25,6 @@ siga normalmente com a execução
 width=150px>
 <img src="https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/81818411-159b-451b-aeb2-1ba11dac45c5" height=50px width=50px>
 - pySpark
-- Matplotlib
+- <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/192px-Created_with_Matplotlib-logo.svg.png?20150219130408>Matplotlib
 - Seaborn
 <img src="https://images.opencollective.com/numpy/68c08d3/logo/256.png" height=50px width=50px>
