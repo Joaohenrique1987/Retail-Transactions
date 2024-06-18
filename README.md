@@ -26,5 +26,5 @@ width=50px>
 <img src="https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/81818411-159b-451b-aeb2-1ba11dac45c5" height=50px width=50px>
 - pySpark
 - <img src = https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/192px-Created_with_Matplotlib-logo.svg.png?20150219130408 height= 50px width = 50px>
-- Seaborn
+- <img src = "https://hub.knime.com/david_foucout/spaces/Public/Components/Seaborn%20Multi-plot%20&%20Regression~y2q9ts8S78aG_4NS/current-state" height = 50px width = 50px>Seaborn
 <img src="https://images.opencollective.com/numpy/68c08d3/logo/256.png" height=50px width=50px>
