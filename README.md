@@ -6,22 +6,25 @@ Alunos:
 
 Nesta atividade buscamos determinar a partir de um dataset os comportamentos de consumo
 
-Instalando Dependencias:
+# Instalando o ambiente:
 
-No terminal da pasta do projeto abra o terminal e digite o comando:
+-  execute a dockerfile
+-  crie um container com a imagem gerada
+-  usando alguma IDE selecione python no ambiente Conda para execução
+* caso haja erro na instalação
+- execute o seguinte comando
+  pip install -r requirements.txt
+siga normalmente com a execução
+# Executando o arquivo:
 
--  python -m venv venv && .\venv\Scripts\activate && pip install -r requirements.txt
+- Rode todo o notebook na pasta notebooks
+- após a execução os relatorios estarao na pasta de notebooks
+  
+# Tecnologias usadas:
 
-# Passos para executar o docker file:
-
-
-
-
-Técnologia usada:
-
-Python
-Jupyter Notebook
-pySpark
-Matplotlib
-Seaborn
-Numpy
+- <img src= "https://w7.pngwing.com/pngs/447/294/png-transparent-python-javascript-logo-clojure-python-logo-blue-angle-text-thumbnail.png">Python
+- Jupyter Notebook
+- pySpark
+- Matplotlib
+- Seaborn
+- Numpy
