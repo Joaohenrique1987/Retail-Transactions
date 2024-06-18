@@ -27,4 +27,4 @@ width=50px>
 - pySpark
 - Matplotlib
 - Seaborn
-- <img src="https://images.opencollective.com/numpy/68c08d3/logo/256.png"> Numpy
+- <img src="https://images.opencollective.com/numpy/68c08d3/logo/256.png" height=50px width=50px> Numpy
