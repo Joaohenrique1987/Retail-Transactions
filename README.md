@@ -23,7 +23,7 @@ siga normalmente com a execução
 # Tecnologias usadas:
 <img src= "https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/11e64126-e4e5-4d0c-93b9-edb03d28bda0" height=50px 
 width=50px>
-- Jupyter Notebook
+<img src="https://github.com/Joaohenrique1987/Retail-Transactions/assets/86072531/81818411-159b-451b-aeb2-1ba11dac45c5" height=50px width=50px>
 - pySpark
 - Matplotlib
 - Seaborn
